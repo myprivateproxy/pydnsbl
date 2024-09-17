@@ -12,7 +12,7 @@ def get_long_description():
 
 requirements = [
     'aiodns>=1.1.1,<=2.0',
-    'idna>=2.9,<3'
+    'idna>=2.9,<4.0'
 ]
 
 
